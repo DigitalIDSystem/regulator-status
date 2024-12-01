@@ -7,6 +7,8 @@ sites:
     url: https://accreditation.register.digitalidsystem.gov.au/
   - name: Australian Government Digital ID System Register
     url: https://agdis.register.digitalidsystem.gov.au/
+  - name: Management API
+    url: https://manage.api.digitalidsystem.gov.au/v1/health
   - name: Accredited Entities Register API
     url: https://register.api.digitalidsystem.gov.au/accredited-entities/v1/health
   - name: Australian Government Digital ID System Register API
