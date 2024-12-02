@@ -20,8 +20,8 @@ status-website:
   cname: status.digitalidsystem.gov.au
   # baseUrl: /your-repo-name
   logoUrl: https://www.digitalidsystem.gov.au/themes/custom/annexbase10/img/AGDIS_RGB_Logo_Colour.svg
-  name: Status Page
-  introTitle: "Digital ID Regulator Status Page"
+  name: Status
+  introTitle: "Digital ID Regulator Status"
   theme: light
   navbar:
     - title: Status
