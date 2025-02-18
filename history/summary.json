@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 989,
-    "timeDay": 505,
-    "timeWeek": 1148,
-    "timeMonth": 1056,
-    "timeYear": 989,
+    "time": 994,
+    "timeDay": 1486,
+    "timeWeek": 1129,
+    "timeMonth": 1081,
+    "timeYear": 994,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 883,
-    "timeDay": 707,
-    "timeWeek": 1357,
-    "timeMonth": 854,
+    "timeDay": 938,
+    "timeWeek": 632,
+    "timeMonth": 868,
     "timeYear": 883,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1328,
-    "timeDay": 1295,
-    "timeWeek": 1310,
-    "timeMonth": 1340,
-    "timeYear": 1328,
+    "time": 1329,
+    "timeDay": 1470,
+    "timeWeek": 1314,
+    "timeMonth": 1341,
+    "timeYear": 1329,
     "dailyMinutesDown": {}
   },
   {
@@ -58,18 +58,20 @@
     "url": "https://register.api.digitalidsystem.gov.au/accredited-entities/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/register.api.digitalidsystem.gov.au.ico",
     "slug": "accredited-entities-register-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1321,
-    "timeDay": 230,
-    "timeWeek": 853,
-    "timeMonth": 1013,
-    "timeYear": 1321,
-    "dailyMinutesDown": {}
+    "time": 1306,
+    "timeDay": 17,
+    "timeWeek": 671,
+    "timeMonth": 957,
+    "timeYear": 1306,
+    "dailyMinutesDown": {
+      "2025-02-18": 0
+    }
   },
   {
     "name": "Australian Government Digital ID System Register API",
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 724,
-    "timeWeek": 571,
-    "timeMonth": 562,
-    "timeYear": 575,
+    "time": 578,
+    "timeDay": 818,
+    "timeWeek": 573,
+    "timeMonth": 588,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   }
 ]
