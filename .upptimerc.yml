@@ -5,14 +5,24 @@ repo: regulator-status # The name of this repository
 sites:
   - name: Accredited Entities Register
     url: https://accreditation.register.digitalidsystem.gov.au/
+    type: globalping
+    location: australia
   - name: Australian Government Digital ID System Register
     url: https://agdis.register.digitalidsystem.gov.au/
+    type: globalping
+    location: australia
   - name: Management API
     url: https://manage.api.digitalidsystem.gov.au/v1/health
+    type: globalping
+    location: australia
   - name: Accredited Entities Register API
     url: https://register.api.digitalidsystem.gov.au/accredited-entities/v1/health
+    type: globalping
+    location: australia
   - name: Australian Government Digital ID System Register API
     url: https://register.api.digitalidsystem.gov.au/agdis/v1/health
+    type: globalping
+    location: australia
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
