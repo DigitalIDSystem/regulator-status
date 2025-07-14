@@ -22,18 +22,20 @@
     "url": "https://agdis.register.digitalidsystem.gov.au/",
     "icon": "https://icons.duckduckgo.com/ip3/agdis.register.digitalidsystem.gov.au.ico",
     "slug": "australian-government-digital-id-system-register",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 887,
-    "timeDay": 1215,
-    "timeWeek": 1103,
-    "timeMonth": 1160,
-    "timeYear": 887,
-    "dailyMinutesDown": {}
+    "time": 914,
+    "timeDay": 4222,
+    "timeWeek": 1869,
+    "timeMonth": 1339,
+    "timeYear": 914,
+    "dailyMinutesDown": {
+      "2025-07-14": 0
+    }
   },
   {
     "name": "Management API",
