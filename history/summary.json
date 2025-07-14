@@ -22,17 +22,17 @@
     "url": "https://agdis.register.digitalidsystem.gov.au/",
     "icon": "https://icons.duckduckgo.com/ip3/agdis.register.digitalidsystem.gov.au.ico",
     "slug": "australian-government-digital-id-system-register",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "98.07%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 915,
-    "timeDay": 3193,
-    "timeWeek": 1787,
-    "timeMonth": 1333,
-    "timeYear": 915,
+    "time": 941,
+    "timeDay": 4212,
+    "timeWeek": 2335,
+    "timeMonth": 1498,
+    "timeYear": 941,
     "dailyMinutesDown": {
       "2025-07-14": 28
     }
