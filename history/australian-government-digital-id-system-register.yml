@@ -1,7 +1,7 @@
 url: https://agdis.register.digitalidsystem.gov.au/
-status: up
-code: 200
-responseTime: 1215
-lastUpdated: 2025-07-13T23:22:43.816Z
+status: down
+code: 503
+responseTime: 7229
+lastUpdated: 2025-07-14T05:15:54.710Z
 startTime: 2024-12-01T22:56:16.430Z
 generator: Upptime <https://github.com/upptime/upptime>
