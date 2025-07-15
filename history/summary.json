@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 951,
-    "timeDay": 1242,
-    "timeWeek": 1209,
-    "timeMonth": 1216,
-    "timeYear": 951,
+    "time": 952,
+    "timeDay": 1202,
+    "timeWeek": 1172,
+    "timeMonth": 1214,
+    "timeYear": 952,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/agdis.register.digitalidsystem.gov.au.ico",
     "slug": "australian-government-digital-id-system-register",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "91.51%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.96%",
-    "time": 968,
-    "timeDay": 3378,
-    "timeWeek": 2395,
-    "timeMonth": 1603,
-    "timeYear": 968,
-    "dailyMinutesDown": {
-      "2025-07-14": 123
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 969,
+    "timeDay": 3394,
+    "timeWeek": 2390,
+    "timeMonth": 1605,
+    "timeYear": 969,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Management API",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1382,
-    "timeDay": 1310,
-    "timeWeek": 1374,
-    "timeMonth": 1419,
-    "timeYear": 1382,
+    "time": 1381,
+    "timeDay": 1047,
+    "timeWeek": 1318,
+    "timeMonth": 1410,
+    "timeYear": 1381,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1341,
-    "timeDay": 1307,
-    "timeWeek": 1347,
-    "timeMonth": 1310,
-    "timeYear": 1341,
+    "time": 1353,
+    "timeDay": 4268,
+    "timeWeek": 1727,
+    "timeMonth": 1391,
+    "timeYear": 1353,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 216,
-    "timeWeek": 194,
-    "timeMonth": 204,
-    "timeYear": 346,
+    "time": 345,
+    "timeDay": 249,
+    "timeWeek": 200,
+    "timeMonth": 205,
+    "timeYear": 345,
     "dailyMinutesDown": {}
   }
 ]
