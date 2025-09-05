@@ -42,5 +42,15 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
+workflowSchedule:
+  uptime: "*/5 * * * *"         # unchanged, every 5 minutes
+  responseTime: "0 * * * *"     # at minute 0 every hour
+  graphs: "10 * * * *"          # 10 minutes past each hour
+  summary: "10 * * * *"         # 10 minutes past each hour
+  staticSite: "20 * * * *"      # 20 minutes past each hour
+  # Unchanged workflows
+  # updateTemplate: "0 0 * * *"
+  # updates: "0 0 * * *"
+
 i18n:
   locale: en-AU
