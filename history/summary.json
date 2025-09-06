@@ -10,11 +10,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 109,
-    "timeWeek": 244,
-    "timeMonth": 557,
-    "timeYear": 892,
+    "time": 889,
+    "timeDay": 115,
+    "timeWeek": 243,
+    "timeMonth": 553,
+    "timeYear": 889,
     "dailyMinutesDown": {
       "2025-09-06": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 103,
-    "timeWeek": 299,
-    "timeMonth": 588,
-    "timeYear": 920,
+    "time": 918,
+    "timeDay": 106,
+    "timeWeek": 296,
+    "timeMonth": 582,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2025-09-06": 18
     }
@@ -44,17 +44,17 @@
     "url": "https://manage.api.digitalidsystem.gov.au/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/manage.api.digitalidsystem.gov.au.ico",
     "slug": "management-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "98.72%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1240,
-    "timeDay": 155,
-    "timeWeek": 334,
-    "timeMonth": 704,
-    "timeYear": 1240,
+    "time": 1233,
+    "timeDay": 157,
+    "timeWeek": 327,
+    "timeMonth": 689,
+    "timeYear": 1233,
     "dailyMinutesDown": {
       "2025-09-06": 18
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1206,
-    "timeDay": 132,
-    "timeWeek": 314,
-    "timeMonth": 644,
-    "timeYear": 1206,
+    "time": 1203,
+    "timeDay": 126,
+    "timeWeek": 309,
+    "timeMonth": 636,
+    "timeYear": 1203,
     "dailyMinutesDown": {
       "2025-09-06": 18
     }
@@ -91,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 91,
-    "timeWeek": 120,
+    "timeDay": 93,
+    "timeWeek": 121,
     "timeMonth": 149,
     "timeYear": 293,
     "dailyMinutesDown": {}
