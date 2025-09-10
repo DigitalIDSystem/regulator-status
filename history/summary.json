@@ -6,8 +6,8 @@
     "slug": "accredited-entities-register",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 745,
@@ -15,9 +15,7 @@
     "timeWeek": 124,
     "timeMonth": 303,
     "timeYear": 745,
-    "dailyMinutesDown": {
-      "2025-09-10": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Australian Government Digital ID System Register",
@@ -26,8 +24,8 @@
     "slug": "australian-government-digital-id-system-register",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 773,
@@ -35,9 +33,7 @@
     "timeWeek": 152,
     "timeMonth": 325,
     "timeYear": 773,
-    "dailyMinutesDown": {
-      "2025-09-10": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Management API",
@@ -46,8 +42,8 @@
     "slug": "management-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1038,
@@ -55,9 +51,7 @@
     "timeWeek": 196,
     "timeMonth": 408,
     "timeYear": 1038,
-    "dailyMinutesDown": {
-      "2025-09-10": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Accredited Entities Register API",
@@ -66,8 +60,8 @@
     "slug": "accredited-entities-register-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1009,
@@ -75,9 +69,7 @@
     "timeWeek": 181,
     "timeMonth": 371,
     "timeYear": 1009,
-    "dailyMinutesDown": {
-      "2025-09-10": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Australian Government Digital ID System Register API",
