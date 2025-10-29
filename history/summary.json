@@ -76,17 +76,17 @@
     "url": "https://register.api.digitalidsystem.gov.au/agdis/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/register.api.digitalidsystem.gov.au.ico",
     "slug": "australian-government-digital-id-system-register-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 573,
-    "timeWeek": 260,
-    "timeMonth": 163,
-    "timeYear": 192,
+    "time": 195,
+    "timeDay": 782,
+    "timeWeek": 292,
+    "timeMonth": 171,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   }
 ]
