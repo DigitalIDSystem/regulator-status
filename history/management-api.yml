@@ -1,7 +1,7 @@
 url: https://manage.api.digitalidsystem.gov.au/v1/health
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-01-25T17:58:07.552Z
+status: up
+code: 200
+responseTime: 102
+lastUpdated: 2026-01-25T18:13:44.244Z
 startTime: 2024-12-01T23:20:10.348Z
 generator: Upptime <https://github.com/upptime/upptime>
