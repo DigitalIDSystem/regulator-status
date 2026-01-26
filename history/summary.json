@@ -6,9 +6,9 @@
     "slug": "accredited-entities-register",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 400,
     "timeDay": 223,
@@ -16,7 +16,7 @@
     "timeMonth": 334,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2026-01-26": 0,
+      "2026-01-26": 29,
       "2026-01-25": 16,
       "2026-01-22": 26
     }
@@ -28,9 +28,9 @@
     "slug": "australian-government-digital-id-system-register",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 402,
     "timeDay": 179,
@@ -38,7 +38,7 @@
     "timeMonth": 328,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2026-01-26": 1,
+      "2026-01-26": 30,
       "2026-01-25": 16,
       "2026-01-22": 26
     }
@@ -50,9 +50,9 @@
     "slug": "management-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.85%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 470,
     "timeDay": 235,
@@ -60,7 +60,7 @@
     "timeMonth": 366,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2026-01-26": 1,
+      "2026-01-26": 30,
       "2026-01-25": 16,
       "2026-01-22": 26
     }
@@ -72,9 +72,9 @@
     "slug": "accredited-entities-register-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 454,
     "timeDay": 173,
@@ -82,7 +82,7 @@
     "timeMonth": 349,
     "timeYear": 436,
     "dailyMinutesDown": {
-      "2026-01-26": 1,
+      "2026-01-26": 30,
       "2026-01-25": 16,
       "2026-01-22": 26
     }
