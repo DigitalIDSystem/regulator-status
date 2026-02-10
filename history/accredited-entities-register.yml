@@ -1,7 +1,7 @@
 url: https://accreditation.register.digitalidsystem.gov.au/
-status: up
-code: 200
-responseTime: 60
-lastUpdated: 2026-02-10T19:52:06.310Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-02-10T20:27:35.537Z
 startTime: 2024-12-01T22:56:14.630Z
 generator: Upptime <https://github.com/upptime/upptime>
