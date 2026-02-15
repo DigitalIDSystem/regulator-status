@@ -6,9 +6,9 @@
     "slug": "accredited-entities-register",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 378,
     "timeDay": 125,
@@ -16,7 +16,6 @@
     "timeMonth": 222,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2026-02-15": 12,
       "2026-02-14": 37,
       "2026-02-12": 23
     }
@@ -28,9 +27,9 @@
     "slug": "australian-government-digital-id-system-register",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 377,
     "timeDay": 171,
@@ -38,7 +37,6 @@
     "timeMonth": 202,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2026-02-15": 12,
       "2026-02-14": 37,
       "2026-02-12": 23
     }
@@ -50,9 +48,9 @@
     "slug": "management-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 442,
     "timeDay": 160,
@@ -60,7 +58,6 @@
     "timeMonth": 245,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2026-02-15": 12,
       "2026-02-14": 37,
       "2026-02-12": 23
     }
@@ -72,9 +69,9 @@
     "slug": "accredited-entities-register-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 428,
     "timeDay": 206,
@@ -82,7 +79,6 @@
     "timeMonth": 238,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2026-02-15": 12,
       "2026-02-14": 37,
       "2026-02-12": 23
     }
