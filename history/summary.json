@@ -6,17 +6,16 @@
     "slug": "accredited-entities-register",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 370,
     "timeDay": 190,
-    "timeWeek": 166,
-    "timeMonth": 184,
+    "timeWeek": 167,
+    "timeMonth": 183,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2026-02-22": 15,
       "2026-02-14": 37,
       "2026-02-12": 23
     }
@@ -28,9 +27,9 @@
     "slug": "australian-government-digital-id-system-register",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 368,
     "timeDay": 160,
@@ -38,7 +37,6 @@
     "timeMonth": 165,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2026-02-22": 15,
       "2026-02-14": 37,
       "2026-02-12": 23
     }
@@ -50,17 +48,16 @@
     "slug": "management-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 432,
     "timeDay": 205,
-    "timeWeek": 170,
-    "timeMonth": 205,
+    "timeWeek": 169,
+    "timeMonth": 206,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2026-02-22": 15,
       "2026-02-14": 37,
       "2026-02-12": 23
     }
@@ -72,17 +69,16 @@
     "slug": "accredited-entities-register-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 419,
     "timeDay": 253,
-    "timeWeek": 180,
+    "timeWeek": 179,
     "timeMonth": 202,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2026-02-22": 15,
       "2026-02-14": 37,
       "2026-02-12": 23
     }
