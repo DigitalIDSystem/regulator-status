@@ -4,18 +4,19 @@
     "url": "https://accreditation.register.digitalidsystem.gov.au/",
     "icon": "https://icons.duckduckgo.com/ip3/accreditation.register.digitalidsystem.gov.au.ico",
     "slug": "accredited-entities-register",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 357,
     "timeDay": 146,
-    "timeWeek": 164,
+    "timeWeek": 165,
     "timeMonth": 169,
     "timeYear": 343,
     "dailyMinutesDown": {
+      "2026-03-07": 0,
       "2026-03-06": 42,
       "2026-03-03": 30
     }
@@ -25,9 +26,9 @@
     "url": "https://agdis.register.digitalidsystem.gov.au/",
     "icon": "https://icons.duckduckgo.com/ip3/agdis.register.digitalidsystem.gov.au.ico",
     "slug": "australian-government-digital-id-system-register",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
@@ -37,6 +38,7 @@
     "timeMonth": 151,
     "timeYear": 343,
     "dailyMinutesDown": {
+      "2026-03-07": 0,
       "2026-03-06": 42,
       "2026-03-03": 30
     }
@@ -46,10 +48,10 @@
     "url": "https://manage.api.digitalidsystem.gov.au/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/manage.api.digitalidsystem.gov.au.ico",
     "slug": "management-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.29%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.28%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 418,
@@ -58,6 +60,7 @@
     "timeMonth": 196,
     "timeYear": 397,
     "dailyMinutesDown": {
+      "2026-03-07": 1,
       "2026-03-06": 42,
       "2026-03-03": 30
     }
@@ -67,18 +70,19 @@
     "url": "https://register.api.digitalidsystem.gov.au/accredited-entities/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/register.api.digitalidsystem.gov.au.ico",
     "slug": "accredited-entities-register-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
     "time": 405,
     "timeDay": 201,
-    "timeWeek": 200,
+    "timeWeek": 199,
     "timeMonth": 190,
     "timeYear": 383,
     "dailyMinutesDown": {
+      "2026-03-07": 1,
       "2026-03-06": 42,
       "2026-03-03": 30
     }
@@ -88,7 +92,7 @@
     "url": "https://register.api.digitalidsystem.gov.au/agdis/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/register.api.digitalidsystem.gov.au.ico",
     "slug": "australian-government-digital-id-system-register-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
