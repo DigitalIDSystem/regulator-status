@@ -1,7 +1,7 @@
 url: https://register.api.digitalidsystem.gov.au/accredited-entities/v1/health
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-03-18T07:42:47.360Z
+status: up
+code: 200
+responseTime: 104
+lastUpdated: 2026-03-18T08:01:46.902Z
 startTime: 2024-12-01T22:56:17.855Z
 generator: Upptime <https://github.com/upptime/upptime>
