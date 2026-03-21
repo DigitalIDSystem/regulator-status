@@ -1,7 +1,7 @@
 url: https://register.api.digitalidsystem.gov.au/agdis/v1/health
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-03-21T01:43:24.817Z
+status: up
+code: 200
+responseTime: 775
+lastUpdated: 2026-03-21T03:12:54.227Z
 startTime: 2024-12-01T22:56:47.933Z
 generator: Upptime <https://github.com/upptime/upptime>
