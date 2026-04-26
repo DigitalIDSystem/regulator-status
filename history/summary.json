@@ -6,9 +6,9 @@
     "slug": "accredited-entities-register",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 328,
     "timeDay": 124,
@@ -16,7 +16,7 @@
     "timeMonth": 212,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2026-04-26": 0
+      "2026-04-26": 20
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "australian-government-digital-id-system-register",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 323,
     "timeDay": 156,
@@ -36,7 +36,7 @@
     "timeMonth": 204,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2026-04-26": 0
+      "2026-04-26": 21
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "management-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 381,
     "timeDay": 127,
@@ -56,7 +56,7 @@
     "timeMonth": 230,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2026-04-26": 1
+      "2026-04-26": 21
     }
   },
   {
@@ -66,9 +66,9 @@
     "slug": "accredited-entities-register-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 365,
     "timeDay": 240,
@@ -76,7 +76,7 @@
     "timeMonth": 241,
     "timeYear": 348,
     "dailyMinutesDown": {
-      "2026-04-26": 1
+      "2026-04-26": 21
     }
   },
   {
