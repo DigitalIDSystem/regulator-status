@@ -6,18 +6,16 @@
     "slug": "accredited-entities-register",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 327,
-    "timeDay": 136,
-    "timeWeek": 118,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 333,
+    "timeDay": 122,
+    "timeWeek": 117,
     "timeMonth": 209,
     "timeYear": 316,
-    "dailyMinutesDown": {
-      "2026-04-26": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Australian Government Digital ID System Register",
@@ -31,9 +29,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 328,
-    "timeDay": 175,
-    "timeWeek": 131,
-    "timeMonth": 200,
+    "timeDay": 125,
+    "timeWeek": 128,
+    "timeMonth": 199,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2026-04-26": 33
@@ -50,10 +48,10 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 379,
-    "timeDay": 163,
-    "timeWeek": 129,
-    "timeMonth": 227,
+    "time": 388,
+    "timeDay": 158,
+    "timeWeek": 125,
+    "timeMonth": 226,
     "timeYear": 359,
     "dailyMinutesDown": {
       "2026-04-26": 33
@@ -66,18 +64,16 @@
     "slug": "accredited-entities-register-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 364,
-    "timeDay": 299,
-    "timeWeek": 191,
-    "timeMonth": 240,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 376,
+    "timeDay": 296,
+    "timeWeek": 195,
+    "timeMonth": 238,
     "timeYear": 348,
-    "dailyMinutesDown": {
-      "2026-04-26": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Australian Government Digital ID System Register API",
@@ -90,10 +86,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 214,
-    "timeWeek": 162,
-    "timeMonth": 220,
+    "time": 301,
+    "timeDay": 298,
+    "timeWeek": 172,
+    "timeMonth": 219,
     "timeYear": 297,
     "dailyMinutesDown": {}
   }
