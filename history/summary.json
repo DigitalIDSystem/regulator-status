@@ -7,17 +7,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 143,
-    "timeWeek": 132,
-    "timeMonth": 142,
+    "timeDay": 128,
+    "timeWeek": 130,
+    "timeMonth": 141,
     "timeYear": 308,
-    "dailyMinutesDown": {
-      "2026-05-09": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Australian Government Digital ID System Register",
@@ -27,17 +25,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 120,
-    "timeWeek": 119,
+    "timeDay": 108,
+    "timeWeek": 117,
     "timeMonth": 137,
     "timeYear": 304,
-    "dailyMinutesDown": {
-      "2026-05-09": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Management API",
@@ -47,17 +43,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 375,
-    "timeDay": 369,
-    "timeWeek": 360,
-    "timeMonth": 249,
+    "timeDay": 406,
+    "timeWeek": 367,
+    "timeMonth": 250,
     "timeYear": 356,
-    "dailyMinutesDown": {
-      "2026-05-09": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Accredited Entities Register API",
@@ -67,17 +61,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 366,
-    "timeDay": 597,
+    "timeDay": 519,
     "timeWeek": 454,
-    "timeMonth": 319,
-    "timeYear": 348,
-    "dailyMinutesDown": {
-      "2026-05-09": 19
-    }
+    "timeMonth": 320,
+    "timeYear": 347,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Australian Government Digital ID System Register API",
@@ -91,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 303,
-    "timeDay": 433,
-    "timeWeek": 474,
-    "timeMonth": 311,
+    "timeDay": 430,
+    "timeWeek": 472,
+    "timeMonth": 312,
     "timeYear": 304,
     "dailyMinutesDown": {}
   }
