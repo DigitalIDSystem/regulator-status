@@ -11,9 +11,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 315,
-    "timeDay": 161,
-    "timeWeek": 163,
-    "timeMonth": 132,
+    "timeDay": 133,
+    "timeWeek": 165,
+    "timeMonth": 131,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2026-05-15": 52
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 317,
-    "timeDay": 131,
-    "timeWeek": 146,
-    "timeMonth": 131,
+    "timeDay": 129,
+    "timeWeek": 147,
+    "timeMonth": 132,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2026-05-15": 52
@@ -51,8 +51,8 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 375,
-    "timeDay": 398,
-    "timeWeek": 388,
+    "timeDay": 407,
+    "timeWeek": 387,
     "timeMonth": 313,
     "timeYear": 355,
     "dailyMinutesDown": {
@@ -71,8 +71,8 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 368,
-    "timeDay": 633,
-    "timeWeek": 507,
+    "timeDay": 593,
+    "timeWeek": 502,
     "timeMonth": 410,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 535,
-    "timeWeek": 505,
-    "timeMonth": 407,
+    "timeDay": 538,
+    "timeWeek": 501,
+    "timeMonth": 408,
     "timeYear": 308,
     "dailyMinutesDown": {}
   }
