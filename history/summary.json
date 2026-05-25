@@ -6,18 +6,18 @@
     "slug": "accredited-entities-register",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 317,
     "timeDay": 87,
-    "timeWeek": 165,
+    "timeWeek": 167,
     "timeMonth": 139,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2026-05-15": 52,
-      "2026-05-25": 1
+      "2026-05-25": 26
     }
   },
   {
@@ -27,9 +27,9 @@
     "slug": "australian-government-digital-id-system-register",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 311,
     "timeDay": 162,
@@ -38,7 +38,7 @@
     "timeYear": 299,
     "dailyMinutesDown": {
       "2026-05-15": 52,
-      "2026-05-25": 1
+      "2026-05-25": 26
     }
   },
   {
@@ -48,18 +48,18 @@
     "slug": "management-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 383,
     "timeDay": 357,
-    "timeWeek": 385,
+    "timeWeek": 386,
     "timeMonth": 357,
     "timeYear": 354,
     "dailyMinutesDown": {
       "2026-05-15": 51,
-      "2026-05-25": 1
+      "2026-05-25": 26
     }
   },
   {
@@ -69,18 +69,18 @@
     "slug": "accredited-entities-register-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 373,
     "timeDay": 568,
-    "timeWeek": 497,
+    "timeWeek": 499,
     "timeMonth": 460,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2026-05-15": 51,
-      "2026-05-25": 1
+      "2026-05-25": 26
     }
   },
   {
@@ -96,7 +96,7 @@
     "uptimeYear": "100.00%",
     "time": 311,
     "timeDay": 650,
-    "timeWeek": 553,
+    "timeWeek": 555,
     "timeMonth": 466,
     "timeYear": 310,
     "dailyMinutesDown": {}
