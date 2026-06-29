@@ -27,7 +27,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.digitalidsystem.gov.au
+  cname: regulator.status.digitalidsystem.gov.au
   # baseUrl: /your-repo-name
   logoUrl: https://www.digitalidsystem.gov.au/themes/custom/annexbase10/img/AGDIS_RGB_Logo_Colour.svg
   name: Status
