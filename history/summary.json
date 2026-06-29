@@ -5,20 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/accreditation.register.digitalidsystem.gov.au.ico",
     "slug": "accredited-entities-register",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 147,
-    "timeWeek": 148,
+    "timeDay": 150,
+    "timeWeek": 149,
     "timeMonth": 172,
     "timeYear": 290,
-    "dailyMinutesDown": {
-      "2026-05-15": 52,
-      "2026-05-25": 60
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Australian Government Digital ID System Register",
@@ -26,20 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/agdis.register.digitalidsystem.gov.au.ico",
     "slug": "australian-government-digital-id-system-register",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 304,
-    "timeDay": 221,
-    "timeWeek": 171,
+    "uptimeYear": "100.00%",
+    "time": 303,
+    "timeDay": 220,
+    "timeWeek": 172,
     "timeMonth": 173,
     "timeYear": 288,
-    "dailyMinutesDown": {
-      "2026-05-15": 52,
-      "2026-05-25": 60
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Management API",
@@ -47,20 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/manage.api.digitalidsystem.gov.au.ico",
     "slug": "management-api",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 420,
-    "timeWeek": 471,
+    "timeDay": 408,
+    "timeWeek": 468,
     "timeMonth": 419,
     "timeYear": 353,
-    "dailyMinutesDown": {
-      "2026-05-15": 51,
-      "2026-05-25": 60
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Accredited Entities Register API",
@@ -68,20 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/register.api.digitalidsystem.gov.au.ico",
     "slug": "accredited-entities-register-api",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 547,
-    "timeWeek": 530,
+    "timeDay": 553,
+    "timeWeek": 531,
     "timeMonth": 543,
     "timeYear": 355,
-    "dailyMinutesDown": {
-      "2026-05-15": 51,
-      "2026-05-25": 59
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Australian Government Digital ID System Register API",
@@ -95,8 +83,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 555,
-    "timeWeek": 528,
+    "timeDay": 539,
+    "timeWeek": 525,
     "timeMonth": 526,
     "timeYear": 323,
     "dailyMinutesDown": {}
