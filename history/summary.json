@@ -58,19 +58,19 @@
     "url": "https://register.api.digitalidsystem.gov.au/accredited-entities/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/register.api.digitalidsystem.gov.au.ico",
     "slug": "accredited-entities-register-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 1125,
-    "timeWeek": 663,
-    "timeMonth": 619,
+    "timeDay": 1095,
+    "timeWeek": 662,
+    "timeMonth": 618,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2026-08-22": 1
+      "2026-08-22": 11
     }
   },
   {
